@@ -42,8 +42,8 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   Duration animDur = Duration(seconds: 2);
   DateTime now = DateTime.now();
-  DateTime startOfSemester = DateTime(2021, 8, 23);
-  DateTime endOfSemester = DateTime(2021, 12, 17);
+  DateTime startOfSemester = DateTime(2022, 1, 18);
+  DateTime endOfSemester = DateTime(2022, 5, 13);
   late Duration remaining;
   late ConfettiController _confettiController;
   late Timer timer;
