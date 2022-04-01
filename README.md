@@ -1,6 +1,8 @@
 # semester_time
 
-The time remaining in the semester
+The time remaining in the semester.
+
+Website: https://nathankolbas.github.io/SemesterTime/build/web/#/
 
 ## Getting Started
 
